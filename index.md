@@ -1,5 +1,6 @@
 ---
 ---
+
 #Welcome to ScrumSeeker.com
 
 This space will emerge as a scrum team forms.
