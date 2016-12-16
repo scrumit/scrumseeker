@@ -3,11 +3,11 @@ layout: page
 title: Scrumseeker
 ---
 
-#Welcome to ScrumSeeker.com
+# Welcome to ScrumSeeker.com
 
 This space will emerge as a scrum team forms.
 
-##Scrum Team
+## Scrum Team
 
 The scrum team shall be made up of those who want to participate.   !http://scrumseeker.com/SmallLogo.png!
 
@@ -22,11 +22,11 @@ The scrum team shall be made up of those who want to participate.   !http://scru
 	|?|Developer|?|
 
 
-##Vision
+## Vision
 
 A place where scrum practitioners who currently do not have a team can come to share experiences and support and continue to scrum until a new opportunity arises.
 
-##Backlog
+## Backlog
 
 To be completed as Scrum Team emerges
 
